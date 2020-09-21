@@ -1,3 +1,2 @@
-# blog-g
-https://favourene.github.io/blog-g/Index.html
-inspired by Daily Tuition
+# Tech-hausa
+https://tasiukwaplong.github.io/tech-hausa
